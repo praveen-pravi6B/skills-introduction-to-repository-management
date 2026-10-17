@@ -1,0 +1,8 @@
+# CODEOWNERS
+# Each path is followed by the GitHub username of the owner.
+
+# Default owner for all files
+* @praveen-pravi6B
+
+# Source code
+src/ @praveen-pravi6B

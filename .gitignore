@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+*.db
+*.sqlite
+*.log
+.DS_Store
+token.json
+credentials.json
+client_secret*.json

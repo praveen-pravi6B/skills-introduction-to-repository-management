@@ -17,4 +17,8 @@ A clear description of the bug.
 
 ## Actual Behaviour
 
+## Environment
+- OS:
+- Python version:
+
 ## Additional Context

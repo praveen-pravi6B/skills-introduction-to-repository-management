@@ -14,3 +14,6 @@ All changes must go through a Pull Request. Direct pushes to `main` are not allo
 
 ## Code of Conduct
 Please follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Getting Help
+Open an issue if you have questions.
